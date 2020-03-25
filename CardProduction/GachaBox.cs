@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+ 
 using DGL_DATA_READER;
 public class GachaBox : MonoBehaviour
 {
