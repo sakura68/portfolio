@@ -1,3 +1,3 @@
 portfolio
 
-{% _include youtube.html id="1U2nLiqrWd8" %}
+[![Video Label](http://img.youtube.com/vi/1U2nLiqrWd8/0.jpg)](https://youtu.be/1U2nLiqrWd8)
